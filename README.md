@@ -11,3 +11,5 @@ Para implementar el modelo se utilizó un dataset de entrenamiento con datos de 
 A través de un analisis exploratorio de datos (EDA) se obtienen las características que más correlación tienen con el valor de mercado del inmueble y son las que se usarán en el modelo.
 
 El siguiente paso fue probar distintos modelos de clasificación y ver cual tenía mejor rendimiento para luego aplicarlo en un dataset de testeo.
+
+Link de acceso a los datasets: https://drive.google.com/drive/folders/1wlF54MrgWb3Vp_rqsuv0yye0wDTdeORy?usp=sharing
